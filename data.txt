@@ -1,0 +1,17 @@
+Hello team,
+
+Please contact us for support at support@gmail.com if you face any issue.
+
+You can also reach the admin at admin123@yahoo.com or info@company.com.
+
+For internship details, email hr.department@techworld.org.
+
+Random notes:
+- This is a test file for email extraction.
+- Contact student: ali.khan2001@gmail.com
+- Backup email: backup_mail@outlook.com
+
+Thanks,
+Management Team
+
+For queries: contact.us@service.net or helpdesk2024@gmail.com
