@@ -18,8 +18,7 @@ A lightweight Python script that scans a text file and extracts all valid email 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/email-extractor.git
-   cd email-extractor
+   git clone https://github.com/nasirbhatti14/CodeAlpha_task_automation.git
    ```
 
 2. **Add your text file**  
@@ -27,7 +26,7 @@ A lightweight Python script that scans a text file and extracts all valid email 
 
 3. **Run the script**
    ```bash
-   python email_extractor.py
+   python task_automation.py
    ```
 
 4. **Check the output**  
